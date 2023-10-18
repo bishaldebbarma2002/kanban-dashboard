@@ -1,7 +1,7 @@
 .container {
     width: 100%;
     display: flex;
-    gap: 5px;
+    gap: 10px;
     border: 2px solid silver;
     background-color: whitesmoke;
     border-radius: 5px;
